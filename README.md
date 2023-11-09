@@ -24,9 +24,10 @@ colcon build --symlink-install
 Once the build is complete, use either of the two options:
 
 ```bash
-# For keyboard movement
+# For keyboard movement, use two terminals:
 source install/setup.bash
-ros2 launch py_jetbot_control keyboard.yml
+ros2 run teleop_twist_keyboard teleop_twist_keyboard  # Terminal 1
+ros2 run py_jetbot_control jetbot  # Terminal 2
 
 # For gamepad movement, connect a PS4 controller
 source install/setup.bash
