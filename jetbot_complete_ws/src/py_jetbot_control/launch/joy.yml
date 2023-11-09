@@ -1,4 +1,3 @@
-# 0.06674397736787796 - z axis offset (2), y axis (1) for fwd/back
 launch:
 - node:
     pkg: "joy_linux"
