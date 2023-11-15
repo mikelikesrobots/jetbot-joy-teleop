@@ -4,7 +4,7 @@
   <name>py_jetbot_control</name>
   <version>0.0.0</version>
   <description>Teleoperation of Waveshare Jetbot AI Kit with keyboard or gamepad</description>
-  <maintainer email="michael.hart1994@gmail.com">jetbot</maintainer>
+  <maintainer email="mikelikesrobots@outlook.com">Mike Likes Robots</maintainer>
   <license>MIT-0</license>
 
   <test_depend>ament_copyright</test_depend>

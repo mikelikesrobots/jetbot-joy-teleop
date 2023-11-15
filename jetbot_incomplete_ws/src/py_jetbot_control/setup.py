@@ -14,7 +14,7 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='jetbot',
+    maintainer='Mike Likes Robots',
     maintainer_email='mikelikesrobots@outlook.com',
     description='Teleoperation of Waveshare Jetbot AI Kit with keyboard or gamepad',
     license='MIT-0',
